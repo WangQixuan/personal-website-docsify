@@ -1,0 +1,77 @@
+.pub-name {
+    font-weight: bold;
+    font-style: italic;
+}
+
+.cition {
+    display: inline-block;
+    margin-top: 1em;
+}
+
+.pub-paragraph {
+    text-align: justify;
+}
+
+.graphical-abstract {
+    width: 80%;
+}
+
+.univ-logo {
+    width: 5em;
+    margin-right: 0.5em;
+    margin-bottom: 0.2em;
+}
+
+.fa-icon-wrap {
+    display: inline-block;
+    width: 1.5em;
+}
+
+ul.fa-ul li {
+    line-height: 2em;
+}
+
+a.pub-title {
+    text-decoration: none;
+    color: inherit;
+}
+
+a.pub-title:hover {
+    text-decoration: underline;
+}
+
+.ul-awards li a {
+    text-decoration: none;
+    color: inherit;
+    font-style: normal;
+    font-weight: normal;
+}
+
+.ul-awards li a:hover {
+    text-decoration: underline;
+}
+.edu-section h3{
+    margin: auto;
+}
+.bc-right{
+    vertical-align: middle;
+    margin: auto;
+}
+#sensitive-area ul.fa-ul{
+    margin-left: 0;
+    padding-left: 1em;
+}
+#sensitive-area a{
+    font-style: normal;
+    font-weight: normal;
+    text-decoration: none;
+}
+#sensitive-area a:hover{
+    text-decoration: underline;
+}
+.aboutme-profile{
+    height: 100%;
+}
+.bc-right{
+    margin-left: 10%;
+}
